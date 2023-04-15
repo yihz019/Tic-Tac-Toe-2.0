@@ -19,7 +19,7 @@
   - Change of colors for each player 
   - Size and different types of font for each user or announcing a Winner or a Tie
 <br><br>
-<\pre>
+</pre>
 # **Test Output**
 <pre>
 Please enter number of players (min: 3, max: 10): 3
@@ -236,4 +236,4 @@ Player "b" please enter row and column position: 2 2
        ======================================================
                          "b" is the WINNER
        ======================================================
- <\pre>
+ </pre>
